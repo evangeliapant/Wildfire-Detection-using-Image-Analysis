@@ -45,3 +45,7 @@ Google Colab (Development & Training)
 
 💻 Code – Google Colab notebook with the wildfire detection model.
 
+## 🔗 Dataset:
+
+https://drive.google.com/drive/folders/1x3aMwpWnZUngn6W8gMrrvkVdUyGw9g9S?usp=sharing
+
